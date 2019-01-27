@@ -1,0 +1,24 @@
+#blockGenerate{
+
+    width: 200px;
+    height: 200px;
+    background-color:green;
+
+}
+.block{
+    width:1000px;
+	margin:auto;
+}
+.block2{
+	margin: auto;
+}
+
+input{
+	display: block;
+}
+.outBlock{
+	line-height: 0.6;
+	position: absolute;
+	top:-5px;
+	left:640px;
+}
